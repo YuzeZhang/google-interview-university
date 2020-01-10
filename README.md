@@ -5,13 +5,13 @@
 * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 * 译者：[aleen42](https://github.com/aleen42)，[Newton](https://github.com/Newt0n)，[bobmayuze](https://github.com/bobmayuze)，[Jaeger](https://github.com/laobie)，[sqrthree](https://github.com/sqrthree)
 
-[![xitu](https://camo.githubusercontent.com/c9c9db0a39b56738a62332f0791d58b1522fdf82/68747470733a2f2f7261776769742e636f6d2f616c65656e34322f6261646765732f6d61737465722f7372632f786974752e737667)](https://github.com/xitu/gold-miner)
+(https://github.com/xitu/gold-miner)
 
 ## 这是？
 
 这是我为了从 web 开发者（自学、非计算机科学学位）蜕变至 Google 软件工程师所制定的计划，其内容历时数月。
 
-![白板上编程 ———— 来自 HBO 频道的剧集，“硅谷”](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+(https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 这一长列表是从 **Google 的指导笔记** 中萃取出来并进行扩展。因此，有些事情你必须去了解一下。我在列表的底部添加了一些额外项，用于解决面试中可能会出现的问题。这些额外项大部分是来自于 Steve Yegge 的“[得到在 Google 工作的机会](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)”。而在 Google 指导笔记的逐字间，它们有时也会被反映出来。
 
@@ -135,8 +135,6 @@
 
 把一个（或两个）印有“[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)”的图案打印出来，并用你誓要成功的眼神盯着它。
 
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
-
 ## 我得到了工作吗？
 
 我还没去应聘。
@@ -156,8 +154,6 @@
 - Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
 - LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
-
 ## 不要妄自菲薄
 
 - Google 的工程师都是才智过人的。但是，就算是工作在 Google 的他们，仍然会因为觉得自己不够聪明而感到一种不安。
@@ -165,13 +161,13 @@
 
 ## 关于 Google
 
-- [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+- [x] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] Google 检索的原理：
-    - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
+    - [x] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [ ] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
-    - [ ] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-    - [ ] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
+    - [x] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+    - [x] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] 系列文章：
     - [ ] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
     - [ ] [Google 为了寻找大众需求的秘密研究](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
@@ -359,29 +355,29 @@
         - [动态数组（视频）](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
         - [不规则数组（视频）](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
         - [调整数组的大小（视频）](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
-    - [ ] 实现一个动态数组（可自动调整大小的可变数组）：
-        - [ ] 练习使用数组和指针去编码，并且指针是通过计算去跳转而不是使用索引
-        - [ ] 通过分配内存来新建一个原生数据型数组
+    - [x] 实现一个动态数组（可自动调整大小的可变数组）：
+        - [x] 练习使用数组和指针去编码，并且指针是通过计算去跳转而不是使用索引
+        - [x] 通过分配内存来新建一个原生数据型数组
             - 可以使用 int 类型的数组，但不能使用其语法特性
             - 从大小为16或更大的数（使用2的倍数 —— 16、32、64、128）开始编写
-        - [ ] size() —— 数组元素的个数
-        - [ ] capacity() —— 可容纳元素的个数
-        - [ ] is_empty()
-        - [ ] at(index) —— 返回对应索引的元素，且若索引越界则愤然报错
-        - [ ] push(item)
-        - [ ] insert(index, item) —— 在指定索引中插入元素，并把后面的元素依次后移
-        - [ ] prepend(item) —— 可以使用上面的 insert 函数，传参 index 为 0
-        - [ ] pop() —— 删除在数组末端的元素，并返回其值
-        - [ ] delete(index) —— 删除指定索引的元素，并把后面的元素依次前移
-        - [ ] remove(item) —— 删除指定值的元素，并返回其索引（即使有多个元素）
-        - [ ] find(item) —— 寻找指定值的元素并返回其中第一个出现的元素其索引，若未找到则返回 -1
-        - [ ] resize(new_capacity) // 私有函数
+        - [x] size() —— 数组元素的个数
+        - [x] capacity() —— 可容纳元素的个数
+        - [x] is_empty()
+        - [x] at(index) —— 返回对应索引的元素，且若索引越界则愤然报错
+        - [x] push(item)
+        - [x] insert(index, item) —— 在指定索引中插入元素，并把后面的元素依次后移
+        - [x] prepend(item) —— 可以使用上面的 insert 函数，传参 index 为 0
+        - [x] pop() —— 删除在数组末端的元素，并返回其值
+        - [x] delete(index) —— 删除指定索引的元素，并把后面的元素依次前移
+        - [x] remove(item) —— 删除指定值的元素，并返回其索引（即使有多个元素）
+        - [x] find(item) —— 寻找指定值的元素并返回其中第一个出现的元素其索引，若未找到则返回 -1
+        - [x] resize(new_capacity) // 私有函数
             - 若数组的大小到达其容积，则变大一倍
             - 获取元素后，若数组大小为其容积的1/4，则缩小一半
-    - [ ] 时间复杂度
+    - [x] 时间复杂度
         - 在数组末端增加/删除、定位、更新元素，只允许占 O(1) 的时间复杂度（平摊（amortized）去分配内存以获取更多空间）
         - 在数组任何地方插入/移除元素，只允许 O(n) 的时间复杂度
-    - [ ] 空间复杂度
+    - [x] 空间复杂度
         - 因为在内存中分配的空间邻近，所以有助于提高性能
         - 空间需求 = （大于或等于 n 的数组容积）* 元素的大小。即便空间需求为 2n，其空间复杂度仍然是 O(n)
 
@@ -1278,10 +1274,10 @@
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     下面的内容都是可选的。这些是我的推荐，不是 Google 的。
     通过学习这些内容，你将会得到更多的有关 CS 的概念，并将为所有的软件工程工作做更好的准备。
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
