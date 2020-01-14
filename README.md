@@ -205,8 +205,8 @@
     - [ ] 震撼开发类面试 第一集：
         - [ ] [Gayle L McDowell —— 震撼开发类面试（视频）](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
         - [ ] [震撼开发类面试 —— 作者 Gayle Laakmann McDowell（视频）](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-    - [ ] 如何在世界四强企业中获得一份工作：
-        - [ ] [“如何在世界四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频）](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+    - [x] 如何在世界四强企业中获得一份工作：
+        - [x] [“如何在世界四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频）](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [ ] [面试 Google 失败](http://alexbowe.com/failing-at-google-interviews/)
 
 ## 为你的面试选择一种语言
